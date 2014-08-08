@@ -1,0 +1,10 @@
+Image matching on LIDAR Data
+Python Class, Spring'14
+============================================================
+This is a README file
+
+Steps:
+1. run filter file
+2. run ndvi file
+3. plane extraction
+4. histogram calculation
